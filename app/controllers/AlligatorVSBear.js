@@ -1,7 +1,6 @@
 import { Alligator } from "../models/Alligator.js";
 import { Bear } from "../models/Bear.js";
 
-
 export class AlligatorVSBear{
   bearVsAlligator(){
     let newGator = new Alligator("tim")
